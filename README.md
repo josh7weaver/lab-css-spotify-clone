@@ -4,30 +4,14 @@
 
 Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today we're going to copy an older (and simpler) version of the Spotify home page:
 
-![Spotify image](https://i.imgur.com/xVD0bm6.jpg)
+![Spotify image](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/spotify-prototype.pdf)
 
-All of the necessary assets and images are included in the starter code. If you'd like a full length PDF version of the webite as reference, [check out this link]().
+All of the necessary assets and images are included in the starter code. If you'd like a full length PDF version of the webite as reference, [check out this link](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/snapshot.jpg).
 
 ## Exercise
 
 ## Requirements
-
-e [Fork this repo](https://guides.github.com/activities/forking/)
-- Clone this repo into your `~/code/labs`
 - You must use 1 descendant selector, and 1 multi selector. You can use more.
-- Animate the green Spotify logo in the upper left-hand corner to jump up and down when a user hovers over it.
-
-## Submission Instructions
-
-Upon completion, run the following commands
-```
-$ git add .
-$ git commit -m "done"
-$ git push origin master
-```
-Navigate to your repo and create a Pull Request -from your master branch to the original repository master branch.
-
-In the Pull request name, add your name and last names separated by a dash "-"
 
 ## Deliverables
 
