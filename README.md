@@ -12,16 +12,18 @@ All of the necessary assets and images are included in the starter code. If you'
 # Exercise
 _Note: The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and a css file is created in `main.css` with colors._
 
-## Requirements
-- You must use 1 descendant selector, and 1 multi selector. You can use more.
-
 ## Deliverables
 
 You will receive the images and resources in the starter code. Write your CSS and HTML in the provided files. Remember to follow good practices.
 
+## Tips
+
+* Start by breaking the HTML up with appropriate tags.
+* Tackle the sections one by one, and don't be distracted by the other sections not looking correct yet.
+
 ## Steps
 
-The page is split into 4 sections. 
+The page is split into 4 sections. Add the appropriate HTML5 tags, classes, and/or id's you need to style the page to match the image (PDF linked to above.)
 
 #### Navbar
 
