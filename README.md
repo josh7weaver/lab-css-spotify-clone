@@ -1,4 +1,4 @@
-# JS | Spotify Clone
+# CIS 122: Spotify Clone
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today 
 All of the necessary assets and images are included in the starter code. If you'd like a full length PDF version of the webite as reference, [check out this link](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/spotify-prototype.pdf).
 
 # Exercise
-__Note: The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and a css file is created in `main.css` with colors.__
+_Note: The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and a css file is created in `main.css` with colors._
 
 ## Requirements
 - You must use 1 descendant selector, and 1 multi selector. You can use more.
