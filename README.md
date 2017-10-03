@@ -10,7 +10,7 @@ Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today 
 All of the necessary assets and images are included in the starter code. If you'd like a full length PDF version of the webite as reference, [check out this link](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/spotify-prototype.pdf).
 
 # Exercise
-_Note: The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and a css file is created in `main.css` with colors._
+_Note: The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html` file, along with a spot for your css which holds the theme colors in a comment._
 
 ## Deliverables
 
