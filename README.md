@@ -11,14 +11,14 @@ All of the necessary assets and images are included in the starter code. If you'
 
 ## Exercise
 
-## Requirements
+### Requirements
 - You must use 1 descendant selector, and 1 multi selector. You can use more.
 
-## Deliverables
+### Deliverables
 
 You will receive the images and resources in the starter code. Write your CSS and HTML in the provided files. Remember to follow good practices.
 
-## Steps
+### Steps
 
 The page is split into 4 sections. 
 
