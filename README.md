@@ -4,9 +4,10 @@
 
 Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today we're going to copy an older (and simpler) version of the Spotify home page:
 
-![Spotify image](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/spotify-prototype.pdf)
+![Spotify image](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/snapshot.jpg)
 
-All of the necessary assets and images are included in the starter code. If you'd like a full length PDF version of the webite as reference, [check out this link](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/snapshot.jpg).
+
+All of the necessary assets and images are included in the starter code. If you'd like a full length PDF version of the webite as reference, [check out this link](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/spotify-prototype.pdf).
 
 ## Exercise
 
