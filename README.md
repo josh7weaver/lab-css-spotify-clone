@@ -45,4 +45,4 @@ The page is split into 4 sections. Add the appropriate HTML5 tags, classes, and/
 	* Position the Spotify logo absolutely according to the Green `div`.
 
 ## Final product
-![Spotify image](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/snapshot.jpg)
+![Spotify image](https://github.com/josh7weaver/lab-css-spotify-clone/raw/master/snapshot.png)
